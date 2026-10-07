@@ -19,8 +19,9 @@ Identify the key factors driving customer churn, segment customers based on thei
 
 4. Dataset
 The dataset contains customer-level information related to subscriptions, charges, tenure, demographics, services, and churn status.
+📥 **[Download Dataset](./data/Customer_Churn_Dataset.xlsx)**
 
-5. Project Workflow
+6. Project Workflow
 The project follows an end-to-end data analytics workflow:
 
   - Load the dataset into Python
@@ -42,6 +43,9 @@ The project follows an end-to-end data analytics workflow:
 8. DAX - DAX measures were created to calculate important KPIs and analytical metrics.
 9. Dashboard - An interactive Power BI dashboard was developed to provide a clear view of customer churn and revenue risk.
    Dashboard Preview
+   📊 **[Download Power BI Dashboard](./dashboard/Customer_Churn_Dashboard.pbix)**
+   ![Customer Churn Dashboard](./images/customer_churn_dashboard.png)
+   ![Customer Churn Dashboard](./images/customer_churn_dashboard.png)
 
 9. Key Insights
  - Subscription Type: Some subscription plans showed higher churn rates than others, suggesting that plan structure and customer expectations may influence
@@ -85,36 +89,32 @@ Customer-Churn-Analysis/
 How to Run
 
 1. Clone the Repository
-
 git clone https://github.com/yourusername/customer-churn-analysis.git
 
 2. Python Analysis
-
 Open the Jupyter Notebook:
-
 python/customer_churn_analysis.ipynb
-
 Install the required Python libraries if necessary:
-
 pip install pandas numpy matplotlib seaborn jupyter
 
 3. MySQL Analysis
-
 Install and open MySQL.
-
 Create the required database.
-
 Import the cleaned dataset.
-
 Execute the SQL queries from:
-
 sql/customer_churn_analysis.sql
 
 4. Power BI Dashboard
-
 Open:
 
 dashboard/Customer_Churn_Dashboard.pbix
+
+Author
+Shyama Mall
+Aspiring Data Analyst
+Skills: Python | SQL | MySQL | Power BI | DAX | Power Query | Excel | Data Analysis
+GitHub: Your GitHub Profile
+LinkedIn: Your LinkedIn Profile
 
 
     
