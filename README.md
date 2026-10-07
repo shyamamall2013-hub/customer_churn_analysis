@@ -19,6 +19,7 @@ Identify the key factors driving customer churn, segment customers based on thei
 
 4. Dataset
 The dataset contains customer-level information related to subscriptions, charges, tenure, demographics, services, and churn status.
+
 📥 **[Download Dataset](./data/Customer_Churn_Dataset.xlsx)**
 
 6. Project Workflow
@@ -42,9 +43,13 @@ The project follows an end-to-end data analytics workflow:
 7. SQL Analysis - The cleaned dataset was loaded into MySQL for business-oriented SQL analysis.
 8. DAX - DAX measures were created to calculate important KPIs and analytical metrics.
 9. Dashboard - An interactive Power BI dashboard was developed to provide a clear view of customer churn and revenue risk.
+
    Dashboard Preview
+   
    📊 **[Download Power BI Dashboard](./dashboard/Customer_Churn_Dashboard.pbix)**
+   
    ![Customer Churn Dashboard](./images/customer_churn_dashboard.png)
+   
    ![Customer Churn Dashboard](./images/customer_churn_dashboard.png)
 
 9. Key Insights
