@@ -2,14 +2,19 @@
 this project analyzes customer churn data to identify the key factors influencing customer retention and churn.
 
 2. Objective
+
 Identify the key factors driving customer churn, segment customers based on their churn risk, and provide data-driven recommendations that can help the business improve customer retention and reduce revenue loss.
 
 3.Tools & Technologies
 
 🐍 Python - Python and Pandas were used to clean and prepare the dataset.
+
 🗄️ MySQL - MySQL was used to answer business questions and calculate important metrics.
+
 📊 Power BI - Built an interactive dashboard in Power BI to present insights visually.
+
 🔄 Power Query - Created churn risk scores column and churn risk level column to calculate high risk customers and risk revenue.
+
 📐 DAX - KPIs were calculated using DAX.
 
 4. Dataset
@@ -18,19 +23,18 @@ The dataset contains customer-level information related to subscriptions, charge
 5. Project Workflow
 The project follows an end-to-end data analytics workflow:
 
-1. Load the dataset into Python
-2. Understand the structure and data types
-3. Clean and transform the data
-4. Perform Exploratory Data Analysis (EDA)
-5. Load the cleaned data into MySQL
-6. Perform SQL-based business analysis
-7. Import data into Power BI
-8. Create data models and relationships
-9. Develop DAX measures and KPIs
-10. Build an interactive Power BI dashboard
-11. Identify key insights and churn patterns
-12. Develop business recommendations
-13. Prepare the final project report
+  1. Load the dataset into Python
+  2. Understand the structure and data types
+  3. Clean and transform the data
+  4. Perform Exploratory Data Analysis (EDA)
+  5. Load the cleaned data into MySQL
+  6. Perform SQL-based business analysis
+  7. Import data into Power BI
+  8. Develop DAX measures and KPIs
+  9. Build an interactive Power BI dashboard
+  10. Identify key insights and churn patterns
+  11. Develop business recommendations
+  12. Prepare the final project report
 
 6. Data Cleaning & Transformation - Data Loading, Initial Exploration, Missing Data Handling, Data Consistency Check, Column Standardization,
    Feature Engineering, Database Integration.
