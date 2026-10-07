@@ -8,7 +8,6 @@ Identify the key factors driving customer churn, segment customers based on thei
 3.Tools & Technologies
 
 🐍 Python - Python and Pandas were used to clean and prepare the dataset.
-
 🗄️ MySQL - MySQL was used to answer business questions and calculate important metrics.
 
 📊 Power BI - Built an interactive dashboard in Power BI to present insights visually.
@@ -23,18 +22,18 @@ The dataset contains customer-level information related to subscriptions, charge
 5. Project Workflow
 The project follows an end-to-end data analytics workflow:
 
-  1. Load the dataset into Python
-  2. Understand the structure and data types
-  3. Clean and transform the data
-  4. Perform Exploratory Data Analysis (EDA)
-  5. Load the cleaned data into MySQL
-  6. Perform SQL-based business analysis
-  7. Import data into Power BI
-  8. Develop DAX measures and KPIs
-  9. Build an interactive Power BI dashboard
-  10. Identify key insights and churn patterns
-  11. Develop business recommendations
-  12. Prepare the final project report
+  -  Load the dataset into Python
+  - Understand the structure and data types
+  - Clean and transform the data
+  - Perform Exploratory Data Analysis (EDA)
+  - Load the cleaned data into MySQL
+  - Perform SQL-based business analysis
+  - Import data into Power BI
+  - Develop DAX measures and KPIs
+  - Build an interactive Power BI dashboard
+  - Identify key insights and churn patterns
+  - Develop business recommendations
+  - Prepare the final project report
 
 6. Data Cleaning & Transformation - Data Loading, Initial Exploration, Missing Data Handling, Data Consistency Check, Column Standardization,
    Feature Engineering, Database Integration.
@@ -44,19 +43,19 @@ The project follows an end-to-end data analytics workflow:
    Dashboard Preview
 
 9. Key Insights
-- Subscription Type: Some subscription plans showed higher churn rates than others, suggesting that plan structure and customer expectations may influence
+ - Subscription Type: Some subscription plans showed higher churn rates than others, suggesting that plan structure and customer expectations may influence
     retention.
-- Tech Support: Customers with No Tech Support showed increased churn, indicating that unresolved customer issues may contribute to churn.
-- Risk of Churn: Customers at risk should be monitored to determine whether price sensitivity is associated with churn.
-- Tenure: Customers with 25-48 month tenure showed a higher tendency to churn, need to know the reason behind it as it indicating dissatisfaction of customers.
-- State: State which has highest number of churn customers is UP.
+ - Tech Support: Customers with No Tech Support showed increased churn, indicating that unresolved customer issues may contribute to churn.
+ - Risk of Churn: Customers at risk should be monitored to determine whether price sensitivity is associated with churn.
+ - Tenure: Customers with 25-48 month tenure showed a higher tendency to churn, need to know the reason behind it as it indicating dissatisfaction of customers.
+ - State: State which has highest number of churn customers is UP.
 
 10. Business Recommendations
-1. Improve customer support: Customers with repeated complaints or support interactions should receive faster resolution.
-2. Review pricing and plans: Investigate whether high-paying customers perceive insufficient value.
-3. Create targeted retention campaigns: Offer suitable incentives to high-risk customers rather than giving discounts to everyone.
-4. Monitor high-risk segments: Use the churn-risk analysis to prioritize customers requiring intervention.
-5. Track churn continuously: Create a regular churn monitoring dashboard so management can identify changes quickly.
+ - Improve customer support: Customers with repeated complaints or support interactions should receive faster resolution.
+ - Review pricing and plans: Investigate whether high-paying customers perceive insufficient value.
+ - Create targeted retention campaigns: Offer suitable incentives to high-risk customers rather than giving discounts to everyone.
+ - Monitor high-risk segments: Use the churn-risk analysis to prioritize customers requiring intervention.
+ - Track churn continuously: Create a regular churn monitoring dashboard so management can identify changes quickly.
 
 
 
