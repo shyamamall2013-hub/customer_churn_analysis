@@ -8,6 +8,7 @@ Identify the key factors driving customer churn, segment customers based on thei
 3.Tools & Technologies
 
 🐍 Python - Python and Pandas were used to clean and prepare the dataset.
+
 🗄️ MySQL - MySQL was used to answer business questions and calculate important metrics.
 
 📊 Power BI - Built an interactive dashboard in Power BI to present insights visually.
@@ -22,7 +23,7 @@ The dataset contains customer-level information related to subscriptions, charge
 5. Project Workflow
 The project follows an end-to-end data analytics workflow:
 
-  -  Load the dataset into Python
+  - Load the dataset into Python
   - Understand the structure and data types
   - Clean and transform the data
   - Perform Exploratory Data Analysis (EDA)
@@ -57,7 +58,63 @@ The project follows an end-to-end data analytics workflow:
  - Monitor high-risk segments: Use the churn-risk analysis to prioritize customers requiring intervention.
  - Track churn continuously: Create a regular churn monitoring dashboard so management can identify changes quickly.
 
+Project Structure
 
+Customer-Churn-Analysis/
+│
+├── data/
+│   └── customer_churn.csv
+│
+├── python/
+│   └── customer_churn_analysis.ipynb
+│
+├── sql/
+│   └── customer_churn_analysis.sql
+│
+├── dashboard/
+│   └── Customer_Churn_Dashboard.pbix
+│
+├── images/
+│   └── customer_churn_dashboard.png
+│
+├── documentation/
+│   └── Customer_Churn_Report.pdf
+│
+└── README.md
+
+How to Run
+
+1. Clone the Repository
+
+git clone https://github.com/yourusername/customer-churn-analysis.git
+
+2. Python Analysis
+
+Open the Jupyter Notebook:
+
+python/customer_churn_analysis.ipynb
+
+Install the required Python libraries if necessary:
+
+pip install pandas numpy matplotlib seaborn jupyter
+
+3. MySQL Analysis
+
+Install and open MySQL.
+
+Create the required database.
+
+Import the cleaned dataset.
+
+Execute the SQL queries from:
+
+sql/customer_churn_analysis.sql
+
+4. Power BI Dashboard
+
+Open:
+
+dashboard/Customer_Churn_Dashboard.pbix
 
 
     
