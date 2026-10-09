@@ -1,7 +1,7 @@
 ## Customer Churn Analysis
 1. Overview
 
-This project analyzes customer churn data to identify the key factors influencing customer retention and churn.
+   This project analyzes customer churn data to identify the key factors influencing customer retention and churn.
 
 2. Objective
 
