@@ -46,7 +46,7 @@ The project follows an end-to-end data analytics workflow:
 
    Dashboard Preview
    
-   📊 **[Download Power BI Dashboard](./dashboard/Customer_Churn_Dashboard.pbix)**
+   📊 **[Download Power BI Dashboard](https://github.com/shyamamall2013-hub/customer_churn_analysis_python_sql_powerbi/blob/main/customer_churn_analysis_dashboard.pbix)**
    
    ![Customer Churn Dashboard](./images/customer_churn_dashboard.png)
    
