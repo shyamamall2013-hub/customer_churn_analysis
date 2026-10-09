@@ -20,7 +20,7 @@ Identify the key factors driving customer churn, segment customers based on thei
 4. Dataset
 The dataset contains customer-level information related to subscriptions, charges, tenure, demographics, services, and churn status.
 
-📥 **[Download Dataset](./data/Customer_Churn_Dataset.xlsx)**
+📥 **[Download Dataset](https://github.com/shyamamall2013-hub/customer_churn_analysis_python_sql_powerbi/blob/main/customer_churn_data.xlsx)**
 
 6. Project Workflow
 The project follows an end-to-end data analytics workflow:
