@@ -21,7 +21,7 @@
 
 4. Dataset
    
-The dataset contains customer-level information related to subscriptions, charges, tenure, demographics, services, and churn status.
+   The dataset contains customer-level information related to subscriptions, charges, tenure, demographics, services, and churn status.
 
 📥 **[Download Dataset](https://github.com/shyamamall2013-hub/customer_churn_analysis_python_sql_powerbi/blob/main/customer_churn_data.xlsx)**
 
