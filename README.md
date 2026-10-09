@@ -125,7 +125,7 @@ Customer-Churn-Analysis/
  
     Open:
 
-       dashboard/Customer_Churn_Dashboard.pbix
+  dashboard/Customer_Churn_Dashboard.pbix
 
 Author
 
