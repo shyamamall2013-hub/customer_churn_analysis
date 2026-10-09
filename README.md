@@ -114,7 +114,7 @@ Customer-Churn-Analysis/
     4. Power BI Dashboard
     Open:
 
-    dashboard/Customer_Churn_Dashboard.pbix
+     dashboard/Customer_Churn_Dashboard.pbix
 
 Author
 
