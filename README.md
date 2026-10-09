@@ -48,10 +48,8 @@ The project follows an end-to-end data analytics workflow:
    
    📊 **[Download Power BI Dashboard](https://github.com/shyamamall2013-hub/customer_churn_analysis_python_sql_powerbi/blob/main/customer_churn_analysis_dashboard.pbix)**
    
-   ![Customer Churn Dashboard](./images/customer_churn_dashboard.png)
+   ![Customer Churn Dashboard](https://github.com/shyamamall2013-hub/customer_churn_analysis_python_sql_powerbi/blob/main/customer_churn_dashboard.png)
    
-   ![Customer Churn Dashboard](./images/customer_churn_dashboard.png)
-
 9. Key Insights
  - Subscription Type: Some subscription plans showed higher churn rates than others, suggesting that plan structure and customer expectations may influence
     retention.
