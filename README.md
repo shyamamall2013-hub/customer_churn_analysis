@@ -1,11 +1,12 @@
 ## Customer Churn Analysis
+1. Overview
 This project analyzes customer churn data to identify the key factors influencing customer retention and churn.
 
 2. Objective
 
 Identify the key factors driving customer churn, segment customers based on their churn risk, and provide data-driven recommendations that can help the business improve customer retention and reduce revenue loss.
 
-3.Tools & Technologies
+3. Tools & Technologies
 
 🐍 Python - Python and Pandas were used to clean and prepare the dataset.
 
