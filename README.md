@@ -5,7 +5,7 @@
 
 2. Objective
 
-Identify the key factors driving customer churn, segment customers based on their churn risk, and provide data-driven recommendations that can help the business improve customer retention and reduce revenue loss.
+   Identify the key factors driving customer churn, segment customers based on their churn risk, and provide data-driven recommendations that can help the business    improve customer retention and reduce revenue loss.
 
 3. Tools & Technologies
 
