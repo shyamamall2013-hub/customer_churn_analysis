@@ -9,24 +9,25 @@
 
 3. Tools & Technologies
 
-🐍 Python - Python and Pandas were used to clean and prepare the dataset.
+   🐍 Python - Python and Pandas were used to clean and prepare the dataset.
 
-🗄️ MySQL - MySQL was used to answer business questions and calculate important metrics.
+   🗄️ MySQL - MySQL was used to answer business questions and calculate important metrics.
 
-📊 Power BI - Built an interactive dashboard in Power BI to present insights visually.
+   📊 Power BI - Built an interactive dashboard in Power BI to present insights visually.
 
-🔄 Power Query - Created churn risk scores column and churn risk level column to calculate high risk customers and risk revenue.
+   🔄 Power Query - Created churn risk scores column and churn risk level column to calculate high risk customers and risk revenue.
 
-📐 DAX - KPIs were calculated using DAX.
+   📐 DAX - KPIs were calculated using DAX.
 
 4. Dataset
+   
 The dataset contains customer-level information related to subscriptions, charges, tenure, demographics, services, and churn status.
 
 📥 **[Download Dataset](https://github.com/shyamamall2013-hub/customer_churn_analysis_python_sql_powerbi/blob/main/customer_churn_data.xlsx)**
 
 5. Project Workflow
 
-The project follows an end-to-end data analytics workflow:
+   The project follows an end-to-end data analytics workflow:
 
   - Load the dataset into Python
   - Understand the structure and data types
@@ -73,7 +74,7 @@ The project follows an end-to-end data analytics workflow:
 Customer-Churn-Analysis/
 │
 ├── data/
-│   └── customer_churn.csv
+│   └── customer_churn.xls
 │
 ├── python/
 │   └── customer_churn_analysis.ipynb
@@ -94,30 +95,33 @@ Customer-Churn-Analysis/
 
 13. How to Run
 
-1. Clone the Repository
-git clone https://github.com/yourusername/customer-churn-analysis.git
+    1. Clone the Repository
+    git clone https://github.com/yourusername/customer-churn-analysis.git
 
-2. Python Analysis
-Open the Jupyter Notebook:
-python/customer_churn_analysis.ipynb
-Install the required Python libraries if necessary:
-pip install pandas numpy matplotlib seaborn jupyter
+    2. Python Analysis
+    Open the Jupyter Notebook:
+    python/customer_churn_analysis.ipynb
+    Install the required Python libraries if necessary:
+    pip install pandas numpy matplotlib seaborn jupyter
 
-3. MySQL Analysis
-Install and open MySQL.
-Create the required database.
-Import the cleaned dataset.
-Execute the SQL queries from:
-sql/customer_churn_analysis.sql
+    3. MySQL Analysis
+    Install and open MySQL.
+    Create the required database.
+    Import the cleaned dataset.
+    Execute the SQL queries from:
+    sql/customer_churn_analysis.sql
 
-4. Power BI Dashboard
-Open:
+    4. Power BI Dashboard
+    Open:
 
-dashboard/Customer_Churn_Dashboard.pbix
+    dashboard/Customer_Churn_Dashboard.pbix
 
 Author
+
 Shyama Mall
+
 GitHub: Your GitHub Profile
+
 LinkedIn: Your LinkedIn Profile
 
 
