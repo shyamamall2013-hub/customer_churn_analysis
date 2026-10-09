@@ -95,11 +95,11 @@ Customer-Churn-Analysis/
 
 13. How to Run
 
-    1. Clone the Repository
+1. Clone the Repository
  
     git clone https://github.com/yourusername/customer-churn-analysis.git
 
-    2. Python Analysis
+2. Python Analysis
 
     Open the Jupyter Notebook:
     
@@ -109,7 +109,7 @@ Customer-Churn-Analysis/
     
     pip install pandas numpy matplotlib seaborn jupyter
 
-    3. MySQL Analysis
+3. MySQL Analysis
  
     Install and open MySQL.
     
@@ -121,7 +121,7 @@ Customer-Churn-Analysis/
     
     sql/customer_churn_analysis.sql
 
-    4. Power BI Dashboard
+4. Power BI Dashboard
  
     Open:
 
