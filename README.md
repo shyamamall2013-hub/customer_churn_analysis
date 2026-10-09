@@ -24,7 +24,8 @@ The dataset contains customer-level information related to subscriptions, charge
 
 📥 **[Download Dataset](https://github.com/shyamamall2013-hub/customer_churn_analysis_python_sql_powerbi/blob/main/customer_churn_data.xlsx)**
 
-6. Project Workflow
+5. Project Workflow
+
 The project follows an end-to-end data analytics workflow:
 
   - Load the dataset into Python
@@ -52,7 +53,7 @@ The project follows an end-to-end data analytics workflow:
    
    ![Customer Churn Dashboard](https://github.com/shyamamall2013-hub/customer_churn_analysis_python_sql_powerbi/blob/main/customer_churn_dashboard.png)
    
-9. Key Insights
+10. Key Insights
  - Subscription Type: Some subscription plans showed higher churn rates than others, suggesting that plan structure and customer expectations may influence
     retention.
  - Tech Support: Customers with No Tech Support showed increased churn, indicating that unresolved customer issues may contribute to churn.
@@ -60,14 +61,14 @@ The project follows an end-to-end data analytics workflow:
  - Tenure: Customers with 25-48 month tenure showed a higher tendency to churn, need to know the reason behind it as it indicating dissatisfaction of customers.
  - State: State which has highest number of churn customers is UP.
 
-10. Business Recommendations
+11. Business Recommendations
  - Improve customer support: Customers with repeated complaints or support interactions should receive faster resolution.
  - Review pricing and plans: Investigate whether high-paying customers perceive insufficient value.
  - Create targeted retention campaigns: Offer suitable incentives to high-risk customers rather than giving discounts to everyone.
  - Monitor high-risk segments: Use the churn-risk analysis to prioritize customers requiring intervention.
  - Track churn continuously: Create a regular churn monitoring dashboard so management can identify changes quickly.
 
-Project Structure
+12. Project Structure
 
 Customer-Churn-Analysis/
 │
@@ -91,7 +92,7 @@ Customer-Churn-Analysis/
 │
 └── README.md
 
-How to Run
+13. How to Run
 
 1. Clone the Repository
 git clone https://github.com/yourusername/customer-churn-analysis.git
@@ -116,8 +117,6 @@ dashboard/Customer_Churn_Dashboard.pbix
 
 Author
 Shyama Mall
-Aspiring Data Analyst
-Skills: Python | SQL | MySQL | Power BI | DAX | Power Query | Excel | Data Analysis
 GitHub: Your GitHub Profile
 LinkedIn: Your LinkedIn Profile
 
